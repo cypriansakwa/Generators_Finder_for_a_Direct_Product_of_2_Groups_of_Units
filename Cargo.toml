@@ -1,0 +1,6 @@
+[package]
+name = "Generators_Finder_for_a_Direct_Product_of_2_Groups_of_Units"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
